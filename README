@@ -1,0 +1,9 @@
+Contact/collision deformer for Maya. Adjusts points based on mesh proximity by simple projection.
+Useful for fingers touching a tabletop, for example.
+
+Buggy and very slow. Likely to need a major rewrite. May cause data loss.
+
+
+Copyright Michael Abrahams 2018, based on code by Jan Lachauer.
+
+GPL v3 license.
